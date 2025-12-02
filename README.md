@@ -36,33 +36,3 @@ A MERN app with authentication, user dashboards, and real‑time updates.
 
 ### 🔹 Project 3 — E‑Commerce Frontend
 Product listings, filtering, cart, checkout flow, and smooth UI.
-
----
-
-## 📬 Contact Me
-Feel free to reach out or collaborate — I'm always open to new projects and ideas.
-
----
-
-## ⭐ Support
-If you like what I do, star ⭐ this repository to show support!
-
----
-
-## 📄 License
-This repository is open‑source and available under the MIT License.
-
-<!--
-**johnx8-dev/johnx8-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
